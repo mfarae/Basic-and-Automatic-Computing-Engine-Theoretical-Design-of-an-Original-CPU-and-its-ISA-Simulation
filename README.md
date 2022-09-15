@@ -1,0 +1,2 @@
+# Basic-and-Automatic-Computing-Engine-Theoretical-Design-of-an-Original-CPU-and-its-ISA-Simulation
+In order to facilitate a visual implementation of the theoretically constructed BACE processor’s organization, an original simulator was programmed by members of our team to emulate the basic computer in order to give an idea of how the BACE processor would be implemented. The simulator was programmed in C++ and can be downloaded with this project.
